@@ -10,9 +10,6 @@ import WhatWeDo from "./components/WhatWeDo";
 
 function App() {
   document.body.style.backgroundColor="#F0F6F8"
-  // document.body.style.display='flex'
-  // document.body.style.flexDirection='column'
-  // document.body.style.justifyContent='center'
   document.body.style.color="#ADADAD"
   return (
     <>

@@ -13,7 +13,6 @@
     font-size: 16px;
     background-color: #ffffff;
     width: 80%;
-    /* height: 10%; */
     border-color: #42A387;
     color: #42A387;
     margin: 5px;
@@ -26,7 +25,6 @@
     background-color: #09805E;
     transition: background-color 0.3s ease;
     width: 94%;
-    /* height: 10%; */
     border-color: #42A387;
     color: #42A387;
     margin: 5px;
