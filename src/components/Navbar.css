@@ -1,0 +1,37 @@
+.navbar {
+    background-color: #ffffff;
+    overflow: hidden;
+    margin: 5px;
+    border-radius: 8px;
+  }
+
+.navbar-right{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  float:right;
+  margin:10px;
+  /* background-color: black; */
+  width: 30%;
+}
+  
+  .navbar__link {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navbar__link:hover {
+    background-color: #B6EADD;
+    color: #158766;
+  }
+  
+  .navbar__link.active {
+    background-color: #B6EADD;
+    color: #42A387;
+    
+  }
+  

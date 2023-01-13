@@ -1,0 +1,13 @@
+.client-i{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* margin: 50px; */
+}
+
+.client-m{
+    margin: 50px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}

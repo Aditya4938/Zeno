@@ -1,0 +1,7 @@
+.world-reach{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 110px;
+}

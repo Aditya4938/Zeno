@@ -1,0 +1,18 @@
+.features-details{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.feature{
+    background-color: #ffffff;
+    margin: 50px;
+    padding: 20px;
+    /* border: 10px; */
+    border-radius: 8px;
+}
+
+.need{
+    margin-left: 18px;
+}

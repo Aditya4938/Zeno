@@ -1,24 +1,33 @@
-import logo from './logo.svg';
 import './App.css';
+import Advertise from './components/Advertise';
+import Client from './components/Client';
+import Feature from './components/Feature';
+import Footer from './components/Footer';
+import Introduction from './components/Introduction';
+import Navbar from "./components/Navbar";
+import Reach from './components/Reach';
+import WhatWeDo from "./components/WhatWeDo";
 
 function App() {
+  document.body.style.backgroundColor="#F0F6F8"
+  // document.body.style.display='flex'
+  // document.body.style.flexDirection='column'
+  // document.body.style.justifyContent='center'
+  document.body.style.color="#ADADAD"
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <>
+    
+    <div className="conatinerapp">
+    <Navbar/>
+    <Introduction/>
+    <WhatWeDo/>
+    <Reach/>
+    <Feature/>
+    <Client/>
+    <Advertise/>
+    <Footer/>
     </div>
+    </>
   );
 }
 

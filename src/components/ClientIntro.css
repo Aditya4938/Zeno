@@ -1,0 +1,13 @@
+.client-intro{
+    background-color: #B6EBDD;
+    height: 33%;
+    width: 30%;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.client-name-pic{
+    display: flex;
+    flex-direction: row;
+}
