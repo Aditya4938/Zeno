@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Zeno/static/css/main.b1504bd4.css",
+    "main.js": "/Zeno/static/js/main.a0652263.js",
+    "static/js/787.d48f2bc5.chunk.js": "/Zeno/static/js/787.d48f2bc5.chunk.js",
+    "static/media/reachworld.png": "/Zeno/static/media/reachworld.ad859bae614b0c8f7e22.png",
+    "static/media/companyImg.png": "/Zeno/static/media/companyImg.94210fcdebebb4072cc4.png",
+    "index.html": "/Zeno/index.html",
+    "main.b1504bd4.css.map": "/Zeno/static/css/main.b1504bd4.css.map",
+    "main.a0652263.js.map": "/Zeno/static/js/main.a0652263.js.map",
+    "787.d48f2bc5.chunk.js.map": "/Zeno/static/js/787.d48f2bc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1504bd4.css",
+    "static/js/main.a0652263.js"
+  ]
+}
